@@ -1,0 +1,46 @@
+body {
+  background-color: white;
+}
+
+.axis {
+font: 12px sans-serif;
+}
+
+.axis line {
+  stroke: grey;
+  stroke-width: 1.0;
+  shape-rendering: crispEdges;
+  opacity: 0.3;
+  stroke-dasharray: 2.5;
+}
+
+#svg1 {
+  position: fixed;
+  top: 0px;
+  bottom: 20px;
+  left: 0px;
+  right: 20px;
+}
+
+#svg2 {
+  position: absolute;
+  top:220px;
+  left: 460px;
+  right: 20px;
+}
+
+#title {
+  position: absolute;
+  left: 40px;
+  top: 450px;
+}
+
+#legend {
+  position: absolute;
+  left: 420px;
+  top: 40px;
+}
+
+.label {
+  font-size: 13px;
+}
