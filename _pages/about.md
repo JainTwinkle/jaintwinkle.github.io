@@ -62,5 +62,5 @@ Publications
   {% endfor %}</ul>
 
 
-### <i class="fas fa-construction" aria-hidden="true"></i> This page is still incomplete.  Please come back later for a complete version.
+### <i class="fas fa-construction"></i> This page is still incomplete.  Please come back later for a complete version.
 {: #construction}
