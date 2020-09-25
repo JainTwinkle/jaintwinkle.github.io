@@ -56,6 +56,6 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
