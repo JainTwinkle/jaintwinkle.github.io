@@ -62,5 +62,5 @@ Publications
   {% endfor %}</ul>
 
 
-### <i class="fas fa-construction"></i> This page is still incomplete.  Please come back later for a complete version.
+### <i class="fas fa-exclamation-triangle"></i> This page is still incomplete.  Please come back later for a complete version.
 {: #construction}
