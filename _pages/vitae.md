@@ -1,13 +1,18 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Vitae"
+permalink: /vitae/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
+
+Current C.V. & Resume
+======
+* [Twinkle Jain - One Page Resume](https://jaintwinkle.github.io/files/paper1.pdf) <i class="fas fa-file-pdf"></i>
+* [Twinkle Jain - Full C.V.](https://jaintwinkle.github.io/files/paper1.pdf)
 
 Education
 ======
