@@ -11,8 +11,8 @@ redirect_from:
 
 Current C.V. & Resume
 ======
-* [Twinkle Jain - One Page Resume](https://jaintwinkle.github.io/files/paper1.pdf) <i class="fas fa-file-pdf"></i>
-* [Twinkle Jain - Full C.V.](https://jaintwinkle.github.io/files/paper1.pdf)
+* [Twinkle Jain - One Page Resume](https://jaintwinkle.github.io/files/twinkle_jain_one_page_resume.pdf) <i class="fas fa-file-pdf"></i>
+* [Twinkle Jain - Full C.V.](https://jaintwinkle.github.io/files/twinkle_jain_full_cv.pdf)<i class="fas fa-file-pdf"></i>
 
 Education
 ======
