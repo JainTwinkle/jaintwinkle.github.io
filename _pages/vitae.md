@@ -53,8 +53,14 @@ Highlights
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
-======
+## Patent
+* "Software checkpoint-restoration between distinctly compiled executables" -- Siemens Industry Software Inc (formerly Mentor Graphics)
+  * Inventors: Twinkle Jain, Vipul Kulshrestha, Kenneth W Crouch
+  * Granted: August 2022
+  * Patent number: 11429379
+  * URL: [https://patents.google.com/patent/US11429379B2](https://patents.google.com/patent/US11429379B2)
+
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
