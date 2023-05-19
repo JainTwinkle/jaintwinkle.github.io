@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Vitae"
-    url: /vitae/
+  # - title: "Vitae"
+  #   url: /vitae/
     
   # - title: "Guide"
   #   url: /markdown/
