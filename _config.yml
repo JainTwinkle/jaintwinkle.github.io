@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Twinkle"
+  name             : "Twinkle Jain"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at Northeastern University"
+  bio              : "Ph.D. student"
   location         : "Boston, MA"
-  employer         :
+  employer         : "Northeastern University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=IcEIQJ4AAAAJ&hl=en&oi=ao"
   email            : "jain.t@northeastern.edu"
