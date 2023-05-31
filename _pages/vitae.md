@@ -9,14 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Current C.V. & Resume
-======
-* [Twinkle Jain - One Page Resume](https://jaintwinkle.github.io/files/twinkle_jain_one_page_resume.pdf) <i class="fas fa-file-pdf"></i>
-* [Twinkle Jain - Full C.V.](https://jaintwinkle.github.io/files/twinkle_jain_full_cv.pdf)<i class="fas fa-file-pdf"></i>
+## Current Resume [Last updated: May 2023]
+* [Twinkle Jain - One-page Resume](https://jaintwinkle.github.io/files/twinkle_jain_one_page_resume.pdf) <i class="fas fa-file-pdf"></i>
+* [Twinkle Jain - Two-page Resume](https://jaintwinkle.github.io/files/twinkle_jain_full_cv.pdf)<i class="fas fa-file-pdf"></i>
 
-Highlights
+<hr style="
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 20%;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(50, 50, 50, 0), rgba(50, 50, 50, 0.75), rgba(50,50,50, 0));">
+<span style="color:grey">Highlights</span>
 ======
-
 ## Education
 
 * Ph.D in Computer Science, Northeastern University, 2017 - 2023
@@ -28,55 +33,13 @@ Highlights
 * M.S. in Computer Applications, Jai Narain Vyas University, 2012 - 2015
 * B.S. in Computer Science, Mohan Lal Sukhadia University, 2009 - 2012
 
-<!-- ## Research Experience
-* **Northeastern University**
-  - Graduate Research Assistant
-* **Mentor Graphics**
-  -  -->
-
-<!-- * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
-  
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
-
 ## Patent
-* "Software checkpoint-restoration between distinctly compiled executables" -- Siemens Industry Software Inc (formerly Mentor Graphics)
-  * Inventors: Twinkle Jain, Vipul Kulshrestha, Kenneth W Crouch
-  * Granted: August 2022
-  * Patent number: 11429379
-  * URL: [https://patents.google.com/patent/US11429379B2](https://patents.google.com/patent/US11429379B2)
+* "Software checkpoint-restoration between distinctly compiled executables" -- Siemens Industry Software Inc. (formerly Mentor Graphics)
+  * **Inventors**: Twinkle Jain, Vipul Kulshrestha, and Kenneth W Crouch
+  * **Granted**: August 2022
+  * **URL**: [https://patents.google.com/patent/US11429379B2](https://patents.google.com/patent/US11429379B2)
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-publication.html %}
   {% endfor %}</ul>
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
